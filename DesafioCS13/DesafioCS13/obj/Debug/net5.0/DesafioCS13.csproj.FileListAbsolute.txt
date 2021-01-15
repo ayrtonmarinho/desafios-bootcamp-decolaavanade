@@ -1,0 +1,16 @@
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.exe
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.deps.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.runtimeconfig.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.runtimeconfig.dev.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\ref\DesafioCS13.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\bin\Debug\net5.0\DesafioCS13.pdb
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.csprojAssemblyReference.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.AssemblyInfoInputs.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.AssemblyInfo.cs
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.csproj.CoreCompileInputs.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\ref\DesafioCS13.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.pdb
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS13\DesafioCS13\obj\Debug\net5.0\DesafioCS13.genruntimeconfig.cache

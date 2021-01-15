@@ -1,0 +1,13 @@
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.exe
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.deps.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.runtimeconfig.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.runtimeconfig.dev.json
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\bin\Debug\netcoreapp3.1\DesafioCS01.pdb
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.csprojAssemblyReference.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.AssemblyInfoInputs.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.AssemblyInfo.cs
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.csproj.CoreCompileInputs.cache
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.dll
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.pdb
+D:\WorkspaceTI\dotnet-projs\DesafiosCSharp\DesafioCS01\obj\Debug\netcoreapp3.1\DesafioCS01.genruntimeconfig.cache
